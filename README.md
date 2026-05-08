@@ -1,4 +1,4 @@
-```md
+
 # IPL Data Analysis Pipeline (Pandas & NumPy)
 
 ## Overview
@@ -38,4 +38,3 @@ This project helped in understanding:
 - Aggregation and analysis using Pandas
 - Working with real-world structured datasets
 - Report generation and data export
-```
