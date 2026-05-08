@@ -8,7 +8,6 @@ The analysis was performed using the IPL datasets:
 - `deliveries.csv`
 - `matches.csv`
 
----
 
 ## What I Have Done
 - Loaded and processed large IPL datasets
@@ -21,14 +20,14 @@ The analysis was performed using the IPL datasets:
 - Compared match outcomes and team performances
 - Created structured reports and exported results into CSV and Excel files
 
----
+
 
 ## Technologies Used
 - Python
 - Pandas
 - NumPy
 
----
+
 
 ## Project Outcome
 This project helped in understanding:
